@@ -918,6 +918,7 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
 .experience-left {
     width: 25%;
 	float:left;
+	height:123px;
     background: #02bdc6;
     text-align: center;
     padding: 2em 0;
@@ -930,7 +931,8 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
 } 
 .experience-right {
     float: right;
-    width: 75%;
+	width: 75%;
+	height:123px;
     border: 1px solid #02bdc6;
     padding: 2em 4em;
 }
